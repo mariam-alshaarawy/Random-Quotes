@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    text-align: center;
+    margin-top: 50px;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 75px;
+    font-weight: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+h4{
+    font-size: 30px;
+    font-family: 'Kalnia', serif;
+    color: black;
+}
+p{
+    font-family: 'Hedvig Letters Serif', serif;
+    font-size: 30px;
+    font-weight: 100px;
+}
+button{
+    margin-top: 50px;
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: green;
+}
